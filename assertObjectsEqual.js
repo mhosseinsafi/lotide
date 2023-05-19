@@ -13,6 +13,8 @@ const assertObjectsEqual = function(actual, expected) {
 
 module.exports = assertObjectsEqual;
 
+// This function compares two objects, actual and expected, using another function called eqObjects to check if they are equal
+
 
 
 

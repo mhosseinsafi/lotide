@@ -10,3 +10,5 @@ const assertEqual = function(actual, expected) {
 };
 
 module.exports = assertEqual;
+
+// This function compares two values, actual and expected, and logs a passing or failing assertion message depending on whether they are equal.

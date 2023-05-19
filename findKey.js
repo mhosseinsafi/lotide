@@ -2,8 +2,8 @@
 const assertEqual = require('./assertEqual');
 
 const findKey = function(object, callback) {
-  for (const key in object) {
-    if (callback(object[key])) {
+  for (const key in object) {    // loop to iterate each key
+    if (callback(object[key])) { // callback function with the value object[key] as an argument
       return key;
     }
   }
