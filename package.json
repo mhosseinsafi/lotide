@@ -1,6 +1,6 @@
 {
   "name": "@hosseinsaafi/lotide",
-  "version": "1.0.2", 
+  "version": "1.0.3", 
   "description": "The test suite includes several test cases that cover common edge cases and input scenarios. Each test case defines the input values, expected output, and any necessary setup or teardown code. The test code uses Jest as the testing framework and includes assertions to verify that the actual output matches the expected output.",
   "main": "index.js",
   "directories": {
