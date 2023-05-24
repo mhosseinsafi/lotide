@@ -46,7 +46,7 @@ The following functions are currently implemented:
 
 * `function1(assertEqual)`: it would be nice to be able to see a series of success / failure messages printed to the console, letting us know if our functions are behaving as expected.
 
-* `function1(assertObjectsEqual)`: This function compares two objects, actual and expected, using another function called eqObjects to check if they are equal
+* `function1(assertObjectsEqual)`: This function compares two objects, actual and expected, using another function called eqObjects to check if they are equal.
 
 * `function1(eqObjects)`:This function implementation will require us to further practice problem solving through object key iteration again.
 
@@ -57,3 +57,5 @@ The following functions are currently implemented:
 * `function1(countLetters)`: The function should take in a sentence (as a string) and then return a count of each of the letters in that sentence.
 
 * `function1(countOnly)`: This function should take in a collection of items and return counts for a specific subset of those items. It won't count everything. In order to decide what to count, it will also be given an idea of which items we care about and it will only count those, ignoring the others.
+
+* `function1(flatten)`: This function takes an array as input and returns a new array with all the elements flattened. Here's how the code works.
